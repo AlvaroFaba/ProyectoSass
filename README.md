@@ -1,3 +1,1 @@
-# Proyecto SASS Nuevo
-
-<center><img src="assets/images/logosass.png" alt="logo sass"/></center>
+<div style="text-align:center"><img src="assets/images/logosass.png" alt="logo sass"/></div>
