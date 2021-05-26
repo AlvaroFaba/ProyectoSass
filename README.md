@@ -1,1 +1,1 @@
-<div style="text-align:center"><img src="assets/images/logosass.png" alt="logo sass"/></div>
+<img src="assets/images/boostrapsass.png" align="center" alt="logo sass"/>
