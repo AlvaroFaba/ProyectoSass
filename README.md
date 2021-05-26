@@ -1,1 +1,0 @@
-<img src="assets/images/boostrapsass.png" align="center" alt="logo sass"/>
